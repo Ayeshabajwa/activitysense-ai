@@ -1,0 +1,7 @@
+ultralytics>=8.4.0
+opencv-python>=4.9
+numpy>=1.26
+torch>=2.2
+pillow>=10.0
+lap>=0.5
+pytest>=8.0
